@@ -52,7 +52,7 @@ int main() {
     mk.input();
 	mk.output();
 
-	return 0;
+	return 0;
 
 }
 
